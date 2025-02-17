@@ -1,0 +1,1 @@
+This example demonstrates a potential issue in Ada programming related to exception handling. The use of a generic 'others' exception handler can mask unexpected errors, making debugging more challenging.  The provided solution shows how to improve the code by handling specific exceptions to gain better insight into errors.
